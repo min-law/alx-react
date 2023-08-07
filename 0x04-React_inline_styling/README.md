@@ -22,4 +22,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Lawrence Akinboye** - [monicajoa](https://github.com/min-law)
+* **Lawrence Akinboye** - [min-law](https://github.com/min-law)
