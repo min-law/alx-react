@@ -14,4 +14,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Monica Ortiz Alvarez** - [monicajoa](https://github.com/monicajoa)
+* **Lawrence Akinboye** - [min-law](https://github.com/min-law)
