@@ -1,4 +1,4 @@
-# 0x08. React Redux action creator+normalizr
+# 0x07. React Redux action creator+normalizr
 
 ## Resources:books:
 Read or watch:
@@ -17,4 +17,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Monica Ortiz Alvarez** - [monicajoa](https://github.com/monicajoa)
+* **Lawrence Akinboye** - [min-law0](https://github.com/min-law)
